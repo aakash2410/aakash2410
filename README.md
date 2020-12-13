@@ -1,4 +1,5 @@
-# Welcome stranger, 
+# My profile
+Welcome stranger, <br/>
 I hope you have a good time going through my github profile. <br/>
 I'm currently working with Django and Django-rest framework & also learning React to become a fullstack web developer (hopefully).
 
